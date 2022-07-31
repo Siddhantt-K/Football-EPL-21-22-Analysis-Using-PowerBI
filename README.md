@@ -13,6 +13,9 @@
 - Merged the data for further visualization.
 - Derived new columns out of the data.
 - Did formation of the data.
+- Added a table to view all the teams according to their standings.
+- Also added another table where if user selects any team from 1st table so this table will display all the matches the selected team has played against.
+- Added tool tip to display the details of team once hoverd on any team.
 
 ## Images of Dashboard
 
